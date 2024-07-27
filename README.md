@@ -1,12 +1,7 @@
-# App Name
+# Project Management App
 
-Project Management App
+Framework: Created Using React and Tailwind CSS.
 
-## App Description
+Description: Used to manage your projects, thereby monitoring and updating the status of the project.
 
-Used to manage your projects. 
-Monitor and update the status of the project.
 
-### Framework
-
-Created Using React and Tailwind CSS.
